@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="txt_try_again">Please try again later.</string>
+    <string name="txt_weather_condition">Weather condition:</string>
+    <string name="txt_temperature">Temperature:</string>
+    <string name="txt_humidity">Humidity:</string>
+    <string name="txt_pressure">Pressure:</string>
+    <string name="txt_wind_speed">Wind Speed:</string>
+    <string name="txt_wind_degree">Wind Degree:</string>
+    <string name="app_id">8de8c02d65d78297eaedf49d535ae4f8</string>
+    <string name="default_search_country">Ahmedabad,India</string>
+    <string name="txt_date">Date:</string>
+</resources>
